@@ -1,5 +1,4 @@
-# newsFeed
-Vueとaxiosで簡単ニュースフィード
+# Vueとaxiosで簡単ニュースフィード
 
 前提条件
 
