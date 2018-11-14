@@ -36,8 +36,7 @@ new Vue({
             setting = month + '月' + day + '日'
             this.posttime.push(setting);
           }
-          console.log('status:', response.status); //ブラウザコンソールに200を返しておく
-          //console.log('body:', response.data.articles[0]);//サンプルデータの確認
+          console.log('status:', response.status);
       }).catch(error => console.log(error))
   }
 });
