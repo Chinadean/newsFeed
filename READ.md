@@ -16,10 +16,13 @@
 ./newsFeed/に移動し下記コマンドを実行    
 `npm install`
 
-3.NewsAPi Keyを登録    
+3.News API Keyを登録    
 ./newsFeed/src/main.js    
 const ApiKey = "YOUR-API-KEY"にキーを入力    
-   
+
+登録はこちら   
+<https://newsapi.org/register>
+
 4.アプリケーション起動    
 `npm run dev`
 
